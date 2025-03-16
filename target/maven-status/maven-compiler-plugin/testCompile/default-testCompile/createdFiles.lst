@@ -1,0 +1,5 @@
+speechmanager/SpeechTest.class
+speechmanager/SpeechRepositoryTest.class
+speechmanager/SpeechManagementApplicationTest.class
+speechmanager/SpeechServiceTest.class
+speechmanager/SpeechControllerTest.class
