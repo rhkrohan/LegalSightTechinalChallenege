@@ -1,4 +1,4 @@
-# Speech Manager Project
+# Speech Manager Project - Legal Sight Technical Challenge
 
 This project is a simple **Speech Manager** application built using **Java** and **Spring Boot**. It provides basic functionality to manage speeches, including adding, retrieving, and updating speeches. The project is designed with a focus on **clean code**, **unit testing**, and **mutation testing** to ensure high-quality software.
 
