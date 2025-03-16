@@ -68,7 +68,6 @@ The codebase adheres to **Test-Driven Development (TDD)** principles, with unit 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/rhkrohan/LegalSightTechinalChallenege.git
-   cd LegalSightTechinalChallenege
    ```
 
 2. **Install Dependencies**:
