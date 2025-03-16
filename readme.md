@@ -14,7 +14,6 @@ This project is a simple **Speech Manager** application built using **Java** and
 6. [API Endpoints](#api-endpoints)
 7. [Testing](#testing)
    - [Unit Tests](#unit-tests)
-   - [Mutation Testing](#mutation-testing)
 8. [Code Coverage](#code-coverage)
 9. [Contributing](#contributing)
 10. [License](#license)
@@ -37,7 +36,6 @@ The codebase follows **Test-Driven Development (TDD)** principles, with unit tes
 - **Update an Existing Speech**: Update the details of an existing speech by providing its ID and updated fields.
 - **Exception Handling**: Proper handling of errors, such as invalid speech IDs or missing resources.
 - **Unit Testing**: Comprehensive unit tests for all layers (entity, service, controller).
-- **Mutation Testing**: Achieves 100% mutation coverage using **PITest** to ensure test robustness.
 
 ---
 
